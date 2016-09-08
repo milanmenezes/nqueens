@@ -80,7 +80,7 @@ div.square {
 
 .odd-row .square:nth-child(odd) {
   background: #b35600;
-}
+} 
 
 .even-row .square:nth-child(even) {
   background: #b35600;
