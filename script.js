@@ -1,4 +1,4 @@
-/* If set, (x, y) is the coordinate square the Queen
+/* If set, (x, y) is the  coordinate square the Queen
  * was dragged from.
  */
 var Mug = {
